@@ -2,10 +2,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Your implementation of a naive bayes classifier. Please implement all four methods.
- */
-
 public class NaiveBayesClassifier implements Classifier {
 	
 	Map<Label,Integer> documentCount = null;

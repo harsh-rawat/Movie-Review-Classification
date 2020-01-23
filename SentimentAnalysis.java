@@ -8,8 +8,6 @@ import java.util.stream.Collectors;
 
 /**
  * This is the main method that will load the application.
- * <p>
- * DO NOT MODIFY
  */
 
 public class SentimentAnalysis {

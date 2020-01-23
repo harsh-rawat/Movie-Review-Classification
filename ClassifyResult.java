@@ -2,8 +2,6 @@ import java.util.Map;
 
 /**
  * Classification result of a movie review instance.
- * <p>
- * DO NOT MODIFY.
  */
 public class ClassifyResult {
     /**

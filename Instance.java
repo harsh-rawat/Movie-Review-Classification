@@ -2,8 +2,6 @@ import java.util.List;
 
 /**
  * A movie review instance.
- * <p>
- * DO NOT MODIFY.
  */
 public class Instance {
     /**
